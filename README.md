@@ -26,7 +26,11 @@ Web developer
     <a href="https://getbootstrap.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;">
   </a>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
   
 
 
