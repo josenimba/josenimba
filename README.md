@@ -29,7 +29,7 @@ Web developer
   
 <p align="center">
   <a href="https://laravel.com/" rel="nofollow">
-    <img src=""https://skillicons.dev/icons?i=laravel" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;">
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
