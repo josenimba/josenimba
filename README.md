@@ -4,14 +4,15 @@ Web developer
 
 ## ⚡TECH Stack
 <p aling="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;">
-  </a>
+
   <a href="https://laravel.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/c13b98c833933f68c7824fd047855dc5059276cb0ee54a743afe7a714bd23921/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" data-canonical-src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;">
   </a>
   <a href="https://www.php.net/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/05a53d5a581a9877f61cf0d80b5b93ccfebdca3a414d0d943287552639be18f6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" data-canonical-src="https://skillicons.dev/icons?i=php"         style="max-width: 100%;">
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" data-canonical-src="https://skillicons.dev/icons?  i=html" style="max-width: 100%;">
   </a>
 </p>
 
