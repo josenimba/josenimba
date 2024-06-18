@@ -4,7 +4,7 @@ Web developer
 
 ## ⚡TECH Stack
   
-<p>
+<p class="text-decoration:none">
   <a href="https://laravel.com/" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;">
   </a>
