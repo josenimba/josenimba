@@ -36,8 +36,11 @@ Web developer
 
 ## On working...🔨
 <p>
-  <a href="https://laravel.com/" rel="nofollow">
+  <a href="https://livewire.laravel.com/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" /></a>
+  <a href="https://es.react.dev/" rel="nofollow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /></a>
+    
 
 
 ##  📱 Databases
