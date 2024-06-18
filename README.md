@@ -31,6 +31,15 @@ Web developer
   <a href="https://laravel.com/" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;">
   </a>
+  <a href="https://www.php.net/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=php" style="max-width: 100%;">
+  </a>
+  <a href="https://laravel.com/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;">
+  </a>
+  <a href="https://laravel.com/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;">
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
