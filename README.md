@@ -21,8 +21,7 @@ Web developer
     <img src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"></a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/javascript" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=js" style="max-width: 100%;">
-  </a>
+    <img src="https://skillicons.dev/icons?i=js" style="max-width: 100%;"></a>
 
   <a href="https://getbootstrap.com" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;">
