@@ -37,9 +37,9 @@ Web developer
 ## On working...🔨
 <p>
   <a href="https://livewire.laravel.com/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" style="max-width: 100%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" height="100" width="100"/></a>
   <a href="https://es.react.dev/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="200" width="200" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="100" width="100" />
   </a>
     
 
