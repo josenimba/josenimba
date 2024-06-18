@@ -26,6 +26,14 @@ Web developer
   
 </p>
 
+## 💻 IDE's
+  <a href="https://code.visualstudio.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" data-canonical-src="https://skillicons.dev/icons?i=vscode" style="max-width: 100%;">
+  </a>
+  <a href="https://eclipseide.org/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/38925c37bd2ef42c93f7784e15af7c69e99ad9e412d4a11d7873c5c5bbdc82ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65636c69707365" data-canonical-src="https://skillicons.dev/icons?i=eclipse" style="max-width: 100%;">
+  </a>
+
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=josenimba)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenimba&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
