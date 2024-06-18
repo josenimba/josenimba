@@ -27,7 +27,7 @@ Web developer
     <img src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
     
   <a href="https://tailwindcss.com/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=tailwind" style="width: 100%;">
+    <img src="https://skillicons.dev/icons?i=tailwind" style="max-width: 100%;">
   </a>
 
 </p>
