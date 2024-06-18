@@ -1,6 +1,6 @@
 ## Jose Iván Gutiérrez 👋
 
-Web developer
+Web developer full-stack
 
 ## ⚡TECH Stack
   
