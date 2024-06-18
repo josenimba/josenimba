@@ -2,6 +2,9 @@
 
 Web developer
 
+
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=josenimba)](https://git.io/streak-stats)
 <!--
 **josenimba/josenimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
