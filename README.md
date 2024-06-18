@@ -9,17 +9,16 @@ Web developer
     <img src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;"></a>
   
   <a href="https://www.php.net/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=php" style="max-width: 100%;">
-  </a>
+    <img src="https://skillicons.dev/icons?i=php" style="max-width: 100%;"></a>
+  
   <a href="https://www.docker.com/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=docker" style="max-width: 100%;">
-  </a>
+    <img src="https://skillicons.dev/icons?i=docker" style="max-width: 100%;"></a>
+    
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=html" style="max-width: 100%;">
-  </a>
+    <img src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"></a>
+    
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=css" style="max-width: 100%;">
-  </a>
+    <img src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"></a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/javascript" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=js" style="max-width: 100%;">
