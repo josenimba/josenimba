@@ -2,7 +2,8 @@
 
 Web developer
 
-## Stack
+## ⚡TECH Stack
+https://camo.githubusercontent.com/4c31cabd8b3aa13…96c6c69636f6e732e6465762f69636f6e733f693d68746d6c
 
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=josenimba)](https://git.io/streak-stats)
