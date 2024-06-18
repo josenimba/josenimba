@@ -14,6 +14,9 @@ Web developer
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
     <img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" data-canonical-src="https://skillicons.dev/icons?  i=html" style="max-width: 100%;">
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%;">
+  </a>
 </p>
 
 ## Github Stats
