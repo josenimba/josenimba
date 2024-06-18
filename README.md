@@ -3,7 +3,7 @@
 Web developer
 
 ## ⚡TECH Stack
-<img src="https://camo.githubusercontent.com/4c31cabd8b3aa13…96c6c69636f6e732e6465762f69636f6e733f693d68746d6c">
+<img src="[https://camo.githubusercontent.com/4c31cabd8b3aa13…96c6c69636f6e732e6465762f69636f6e733f693d68746d6c](https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c)">
 
 
 ## Github Stats
