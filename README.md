@@ -7,6 +7,9 @@ Web developer full-stack
 <p>
   <a href="https://laravel.com/" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;"></a>
+
+  <a href="https://astro.build/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=astro" style="max-width: 100%;"></a>
   
   <a href="https://www.php.net/" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=php" style="max-width: 100%;"></a>
